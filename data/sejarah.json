@@ -1,0 +1,64 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Apa ibukota Indonesia?",
+        "options": ["Jakarta", "Bandung", "Surabaya", "Medan"],
+        "correctAnswer": "Jakarta"
+      },
+      {
+        "id": 2,
+        "question": "Planet terdekat dari Matahari adalah?",
+        "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+        "correctAnswer": "Mercury"
+      },
+      {
+        "id": 3,
+        "question": "Siapa penemu teori relativitas?",
+        "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+        "correctAnswer": "Albert Einstein"
+      },
+      {
+        "id": 4,
+        "question": "Berapakah hasil dari 2 + 2 x 2?",
+        "options": ["4", "6", "8", "10"],
+        "correctAnswer": "6"
+      },
+      {
+        "id": 5,
+        "question": "Apa nama sungai terpanjang di dunia?",
+        "options": ["Sungai Nil", "Sungai Amazon", "Sungai Yangtze", "Sungai Mississippi"],
+        "correctAnswer": "Sungai Nil"
+      },
+      {
+        "id": 6,
+        "question": "Apa nama benua terkecil di dunia?",
+        "options": ["Asia", "Afrika", "Australia", "Eropa"],
+        "correctAnswer": "Australia"
+      },
+      {
+        "id": 7,
+        "question": "Siapa penulis novel 'Laskar Pelangi'?",
+        "options": ["Tere Liye", "Andrea Hirata", "Dee Lestari", "Pramoedya Ananta Toer"],
+        "correctAnswer": "Andrea Hirata"
+      },
+      {
+        "id": 8,
+        "question": "Apa nama gunung tertinggi di dunia?",
+        "options": ["Gunung Everest", "Gunung Kilimanjaro", "Gunung Fuji", "Gunung Rinjani"],
+        "correctAnswer": "Gunung Everest"
+      },
+      {
+        "id": 9,
+        "question": "Apa nama mata uang Jepang?",
+        "options": ["Yuan", "Won", "Yen", "Ringgit"],
+        "correctAnswer": "Yen"
+      },
+      {
+        "id": 10,
+        "question": "Siapa presiden pertama Indonesia?",
+        "options": ["Soeharto", "BJ Habibie", "Soekarno", "Joko Widodo"],
+        "correctAnswer": "Soekarno"
+      }
+    ]
+  }
